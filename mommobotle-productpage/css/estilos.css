@@ -19,6 +19,95 @@ p {
 	margin-bottom: 15px;
 }
 
+
+
+
+
+.galeriatitulo2{
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.colorgris{
+    padding:40px;
+    background-color: #f2f2f2;
+}
+
+.soldout{
+    width:120px;
+    text-align: center;
+    height: 50px;
+    padding:15px;
+    background-color:#3e3e3e;
+    color:white;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.text4{
+    margin-bottom: 30px;
+    font-weight: 300;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.sliderp{
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+   
+    width: 80%; 
+
+}
+
+.descripcionproductop{
+    margin-bottom: 20px;
+    font-weight: 300;
+    font-size: 15px;
+    color:dimgray;
+}
+
+.logogda{
+   
+    width: 200px;
+    margin-bottom: 30px;
+}
+
+.bold{
+    color:black;    
+    font-weight: 800;
+    list-style-position: outside;
+}
+
+li{margin-bottom: 10px;}
+
+.fotogalery{
+    
+    width: 100%;
+}
+
+.e4{ height:30px;}
+
+.rrsss{display: flex;}
+
+.filete{
+    width:50px;
+    height:8px;
+    background-color: dimgray;
+    margin-left: 48%;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
 .header{ 
     height: 80px;
     padding:30px;
@@ -35,6 +124,8 @@ p {
     display: flex;
     width:50%;     
 }
+
+
 
 .e1{
 
@@ -57,23 +148,20 @@ p {
 }
 
 
-
-.slider1{
-    display: flex;
-    
-    height:1000px;
-    width: 100%; 
-
-    background-image: url(../img/A5_LEATHER_2000x.jpg);
-    background-size: cover;
+.galeriatitulo{
+    margin-top: 100px;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
 }
 
 
+
 .menu1{
-    margin-top: 300px;
-    display: column;
+   display: flex;
+    flex-direction: column;
     width:50%;
-    padding:20px;
+   
     
 }
 .text1{
@@ -85,13 +173,7 @@ p {
      color:#9e6748;
 }
 
-.text2{
-    font-weight: 300;
-    font-size: 20px;
-    margin-top: 30px;
-    text-align: center;
-    color:#9e6748;
-}
+
 .text3{
     margin-left: 42%;
     width:200px;
@@ -107,13 +189,7 @@ p {
 }
 
 
-.galeriatitulo{
-    margin-bottom: 50px;
-    margin-top: 100px;
-    text-align: center;
-    font-weight: 400;
-    font-size: 25px;
-}
+
 
 .slider2{
     display: flex;
@@ -140,14 +216,7 @@ p {
 
 
 
-.descrpcionproctucto{
-    margin-left: 25%;
-    width:20%;
-  
-    text-align: center;
-    font-weight: 300;
-    font-size: 15px;
-}
+
 .precioproctucto{
       margin-left: 25%;
     width:20%;
